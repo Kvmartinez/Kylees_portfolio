@@ -21,6 +21,21 @@ Balancing school and entrepreneurship has taught me how to stay focused, work ha
 
 ***
 
+Find me on:
+***
+
+ linkedin: [linkedin](https://www.linkedin.com/in/kylee-martinez-337b132a8/)
+
+***
+
+ Facebook: [facebook](https://www.facebook.com/profile.php?id=61573023647434)
+
+***
+
+Insatgram: [instagram](https://www.instagram.com/gelnailsbyky/)
+
+***
+
 ### Education 
 Glen Burnie High school
 
