@@ -34,19 +34,19 @@ Loyola University of Maryland
 
 #### JDoodle
  - I broadened my expertise in computer science and began to code using JDoodle to create an advanced fizzbuzz.
- - [insert project 1 screenshot here]
+ - ![project](/images/fizzbuzz.png)
  - Project 1 Report
 
 ***
 
 #### Excel
  - I ventured into excel by leaning how to create graphs which will aid in the future when expanding my business.
- - [insert project 2 screenshot here]
+ - ![project](/images/sheet.png)
  - Project 2 Report
  
 ***
 
 #### Outlook
  - I learned more ways to organize and manage my time through outlook, which adds to my organization skills.
- - [insert project 3 screenshot here]
+ - ![project](/images/calendar.png)
  - Project 3 Report
