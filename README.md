@@ -21,7 +21,7 @@ Balancing school and entrepreneurship has taught me how to stay focused, work ha
 
 ***
 
-Connect with me, You can find me on any link below.
+Connect with me! You can find me on any link below.
 
 ***
 
