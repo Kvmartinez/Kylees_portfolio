@@ -3,6 +3,9 @@
 # Kylee Martinez
 Contact Info:
 business email: Gelnailsbykylee@gmail.com
+
+***
+
 Phone number: 202-602-8164
 
 ***
@@ -20,9 +23,12 @@ Balancing school and entrepreneurship has taught me how to stay focused, work ha
 
 ### Education 
 Glen Burnie High school
-Loyola University of Maryland 
 
 ***
+
+Loyola University of Maryland 
+
+
 
 ### Projects
 
