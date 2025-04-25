@@ -5,11 +5,7 @@ Contact Info:
 
 ***
 
-business email:
-
-***
-
-Gelnailsbykylee@gmail.com
+business email: Gelnailsbykylee@gmail.com
 
 ***
 
