@@ -49,12 +49,12 @@ Loyola University of Maryland
 
 
 
-### Projects
+#### Projects
 
-#### Python
+##### Python
  - I broadened my expertise in computer science and began to code using python to create an advanced fizzbuzz.
  - ![project](/images/fizzbuzz.png)
- - ## Initial Project Idea:
+ - ##### Initial Project Idea:
 
  ***
 
@@ -62,22 +62,22 @@ I wanted to strengthen my coding skills by building an advanced version of FizzB
 
 ***
 
-## Tools I Used:
+##### Tools I Used:
 Python (IDLE and VS Code for testing and debugging).
 
 ***
 
-## Challenges I Faced:
+##### Challenges I Faced:
 Creating dynamic logic for the advanced FizzBuzz required a lot of trial and error and understanding of Python syntax.
 
 ***
 
-## Other Resources:
+##### Other Resources:
 I used online Python tutorials and forums like Stack Overflow to troubleshoot.
 
 ***
 
-## Result:
+##### Result:
 
 ***
 
@@ -85,7 +85,7 @@ The project was successful, and I gained confidence writing clean, logical code.
 
 ***
 
-## Summary:
+##### Summary:
 
 ***
 
@@ -96,37 +96,37 @@ I developed stronger Python skills by creating an advanced FizzBuzz program, suc
 #### Excel
  - I ventured into excel by leaning how to create graphs which will aid in the future when expanding my business.
  - ![project](/images/sheet.png)
- - ## Initial project idea 
+ - ##### Initial project idea 
 
 ***
 
 I wanted to learn how to visualize data and use Excel for my business tracking needs.
 
-## Tools I Used:
+##### Tools I Used:
 
 ***
 
 Microsoft Excel with functions like VLOOKUP, graphs, and basic data tables.
 
-## Challenges I Faced:
+##### Challenges I Faced:
 
 ***
 
 Learning to use advanced formulas and formatting charts properly took time and practice.
 
-## Other Resources:
+##### Other Resources:
 
 ***
 
 I followed Excel video tutorials and used template examples for formatting guidance.
 
-## Result:
+##### Result:
 
 ***
 
 I mastered useful Excel tools and created graphs for potential business applications. I'd like to automate reports in the future.
 
-## Summary:
+##### Summary:
 
 ***
 
@@ -137,7 +137,7 @@ This project helped me gain Excel skills like graphing and using functions, whic
 #### Outlook
  - I learned more ways to organize and manage my time through outlook, which adds to my organization skills.
  - ![project](/images/calendar.png)
- - ## Initial Project Idea:
+ - ##### Initial Project Idea:
 
  ***
 
@@ -145,7 +145,7 @@ I needed a better way to manage my time and tasks, especially balancing school a
 
 ***
 
-## Tools I Used:
+##### Tools I Used:
 
 ***
 
@@ -153,25 +153,25 @@ Microsoft Outlook’s calendar and scheduling features.
 
 ***
 
-## Challenges I Faced:
+##### Challenges I Faced:
 
 ***
 
 The hardest part was getting into the habit of using the calendar daily and organizing events efficiently.
 
-## Other Resources:
+##### Other Resources:
 
 ***
 
 I used Microsoft’s help center and video tutorials to explore all Outlook features.
 
-## Result:
+##### Result:
 
 ***
 
 The project improved my time management, helping me stay on track with deadlines. I’ll continue using Outlook regularly.
 
-## Summary:
+##### Summary:
 
 ***
 
