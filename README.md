@@ -20,7 +20,7 @@ What sets me apart is my strong organization, bilingual communication skills, an
 
 Outside the classroom, I’m also a small business owner. As a licensed nail technician, I run my own nail business, where I manage both the creative and professional sides of the brand. From designing sets to scheduling appointments and building a social media presence, I’ve developed skills in time management, marketing, and client relations.
 
-Balancing school and entrepreneurship has taught me how to stay focused, work hard, and keep growing. Everything I’m doing now is preparing me to be a compassionate, well rounded therapist in the future.
+Balancing school and entrepreneurship has taught me how to stay focused, work hard, and keep growing. Everything I’m doing now is preparing me to be a compassionate, and well rounded therapist in the future.
 
 ***
 
