@@ -51,10 +51,10 @@ Loyola University of Maryland
 
 ### Projects
 
-#### JDoodle
- - I broadened my expertise in computer science and began to code using JDoodle to create an advanced fizzbuzz.
+#### Python
+ - I broadened my expertise in computer science and began to code using python to create an advanced fizzbuzz.
  - ![project](/images/fizzbuzz.png)
- - The project was succesfully completed, I was able to demonstrate mastery in JDoodle coding.
+ - The project was succesfully completed, I was able to demonstrate mastery in python coding.
 
 ***
 
