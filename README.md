@@ -1,4 +1,4 @@
-![Banner](images/cover.png)
+![Banner](images/banner.png)
 
 # Kylee Martinez
 Contact Info:
