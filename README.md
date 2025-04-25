@@ -21,7 +21,7 @@ Balancing school and entrepreneurship has taught me how to stay focused, work ha
 
 ***
 
-Find me on:
+Connect with me! You can find me on any link below.
 ***
 
  linkedin: [linkedin](https://www.linkedin.com/in/kylee-martinez-337b132a8/)
